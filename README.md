@@ -40,9 +40,9 @@ Estrutura dos códigos de cada API e chamadas:
 
 ## Diagrama de Fluxo
 
-Fluxo de dados no sistema:
+Fluxo de dados do sistema (SDF):
 
-![SFD](https://github.com/Moriblo/front/blob/main/SFD.png)
+![SDF](https://github.com/Moriblo/front/blob/main/SFD.png)
 
 ## Projeto
 
