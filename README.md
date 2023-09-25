@@ -53,7 +53,7 @@ Diagrama de Fluxo do Sistema (SFD):
 > [!Warning]
 >
 > #### ⚙️ __[Executar APIs](https://drive.google.com/file/d/1_62fujFCcAPSycUMiMIc4fvU0fEFYZss/view?usp=drive_link)__
-> __Este link realizará o download de um arquivo <span style="font-size: 10px;">[StartAPIs.bat - Click para ver seu conteúdo](https://github.com/Moriblo/ObA/blob/main/StartAPIs.bat)__</span> <span style="color: red;">Todas as questões de segurança devem ser observadas!</span>
-> <span style="font-size: 30px;">Texto grande</span> e <span style="font-size: 10px;">texto pequeno</span> na mesma linha.
+> <span style="font-size: 5px;" "color: red;">__Este link realizará o download de um arquivo [StartAPIs.bat - Click para ver seu conteúdo](https://github.com/Moriblo/ObA/blob/main/StartAPIs.bat). Todas as questões de segurança devem ser observadas!__</span>
+>
 
 
