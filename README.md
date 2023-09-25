@@ -46,6 +46,6 @@ Fluxo de dados do sistema (SDF):
 
 ## Projeto
 
-> ### __[Visão Geral do Projeto](https://github.com/users/Moriblo/projects/2/insights/4)__
+> ### 👀 __[Visão Geral do Projeto](https://github.com/users/Moriblo/projects/2/insights/4)__
 
 > ### 🏃 __[Executar front](https://moriblo.github.io/front/)__
