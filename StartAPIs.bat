@@ -1,4 +1,3 @@
-<a href="https://github.com/Moriblo"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f519.png" width="20" height="20"></a> 
 
 @echo off
 REM Baixa as APIs de um diretório /APIs do google drive
