@@ -53,24 +53,9 @@ Diagrama de Fluxo do Sistema (SFD):
 >[!Warning]
 >
 > #### ⚙️ __[Executar APIs](https://drive.google.com/file/d/1_62fujFCcAPSycUMiMIc4fvU0fEFYZss/view?usp=drive_link)__
-__Este link realizará o download de um arquivo StartAPIs.bat com o seguinte conteúdo:__
+__Este link realizará o download de um arquivo [StartAPIs.bat - Click para ver seu conteúdo](https://github.com/Moriblo/ObA/blob/main/StartAPIs.bat)__
+
+<span style="color: red; background-color: yellow;">Todas as questões de segurança devem ser observadas!</span>
+
 __Todas as questões de segurança devem ser observadas!__
-        @echo off
-        REM Baixa as APIs de um diretório APIs do google drive
-        https://drive.google.com/file/d/16TJzEJE9miSXwyhG-2ns1cXjXy-1iMUZ/view?usp=drive_link
-        https://drive.google.com/file/d/1_lEP_zATl03vcdekok_sV7MqMTY1gq1K/view?usp=drive_link
-        https://drive.google.com/file/d/15XkBvyo_p3KqqoOq6AgHxrtTukK4-IK9/view?usp=drive_link
-        REM Executar os arquivo .exe para cada API
-        title app
-        start app.exe
-        title tradutor
-        start tradutor.exe
-        title smuseum
-        start smuseum.exe
-        REM Executar o arquivo .exe
-        title app
-        start app.exe
-        title tradutor
-        start tradutor.exe
-        title smuseum
-        start smuseum.exe
+
