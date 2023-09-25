@@ -48,12 +48,12 @@ Diagrama de Fluxo do Sistema (SFD):
 
 > ### 👀 __[Visão Geral do Projeto](https://github.com/users/Moriblo/projects/2/insights/4)__
 
-> ### 🏃 __[Executar front](https://moriblo.github.io/front/)__ #
+> ### 🏃 __[Executar front](https://moriblo.github.io/front/)__
 
 >[!Warning]
 >
 > > #### ⚙️ __[Executar APIs](https://drive.google.com/file/d/1_62fujFCcAPSycUMiMIc4fvU0fEFYZss/view?usp=drive_link)__
-> #### * Este link realizará o download de um arquivo StartAPIs.bat com o seguinte conteúdo:
+> #### * __Este link realizará o download de um arquivo StartAPIs.bat com o seguinte conteúdo:__
 >        @echo off
 >        REM Baixa as APIs de um diretório APIs do google drive
 >        https://drive.google.com/file/d/16TJzEJE9miSXwyhG-2ns1cXjXy-1iMUZ/view?usp=drive_link
