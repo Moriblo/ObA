@@ -22,7 +22,7 @@ O usuário pode optar por buscar um link de imagem para a obra, deixando o campo
 
 Arquitetura do Projeto Obras de Arte com destaque para o FrontEnd, que seleciona a API a ser utilizada a medida das opções do usuário.
 
-![Front](https://github.com/Moriblo/front/blob/main/Front.png)
+![Arquitetura](https://github.com/Moriblo/front/blob/main/Arquitetura.png))
 
 > [!IMPORTANT]
 > * __[Front_A - Chama as APIs [script.js]](https://github.com/Moriblo/front)__
