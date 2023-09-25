@@ -1,0 +1,21 @@
+```html
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Download de APIs</title>
+</head>
+<body>
+    <a id="APIs" href="#" download="StartAPIs.bat">Clique aqui para baixar as APIs</a>
+
+    <script>
+        // URL do arquivo .bat que deseja disponibilizar para download
+        var batFileURL = "https://github.com/Moriblo/ObA/blob/main/StartAPIs.bat";
+
+        // Obtém o elemento de âncora de download
+        var downloadLink = document.getElementById("downloadLink");
+
+        // Define o atributo "href" do link para a URL do arquivo .bat
+        downloadLink.href = batFileURL;
+    </script>
+</body>
+</html>
