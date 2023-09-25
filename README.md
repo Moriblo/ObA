@@ -52,7 +52,7 @@ Diagrama de Fluxo do Sistema (SFD):
 
 >[!Warning]
 >
-> > #### ⚙️ __[Executar APIs](https://drive.google.com/file/d/1_62fujFCcAPSycUMiMIc4fvU0fEFYZss/view?usp=drive_link)__
+> #### ⚙️ __[Executar APIs](https://drive.google.com/file/d/1_62fujFCcAPSycUMiMIc4fvU0fEFYZss/view?usp=drive_link)__
 > __Este link realizará o download de um arquivo StartAPIs.bat com o seguinte conteúdo:__
 > __Todas as questões de segurança devem ser observadas!__
 >        @echo off
