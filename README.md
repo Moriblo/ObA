@@ -44,6 +44,4 @@ Fluxo de dados no sistema:
 
 ## Projeto
 
-Detalhamento dos requisitos (REQ) do MVP e demais issues tratados:
-
-### > __[Visão Geral do Projeto](https://github.com/users/Moriblo/projects/2/insights/2)__
+__[Visão Geral do Projeto](https://github.com/users/Moriblo/projects/2/insights/2)__
