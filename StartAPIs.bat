@@ -1,16 +1,27 @@
 
 @echo off
-REM Baixa as APIs de um diretório /APIs do google drive
-https://drive.google.com/file/d/16TJzEJE9miSXwyhG-2ns1cXjXy-1iMUZ/view?usp=drive_link
-https://drive.google.com/file/d/1_lEP_zATl03vcdekok_sV7MqMTY1gq1K/view?usp=drive_link
-https://drive.google.com/file/d/15XkBvyo_p3KqqoOq6AgHxrtTukK4-IK9/view?usp=drive_link
+
+REM Utilizando o comando 'curl' para baixar as APIs
+
+@echo Baixando APIs...
+
+curl -o app.exe https://raw.githubusercontent.com/moriblo/ObA/master/app.exe
+curl -o tradutor.exe https://raw.githubusercontent.com/moriblo/ObA/master/tradutor.exe
+curl -o smuseum.exe https://raw.githubusercontent.com/moriblo/ObA/master/smuseum.exe
+
+@echo APIs copiadas.
 
 REM Executa os arquivos .exe para cada API
-title app
 start app.exe
+$Host.UI.RawUI.WindowTitle = "app"
 
-title tradutor
 start tradutor.exe
+$Host.UI.RawUI.WindowTitle = "tradutor"
 
-title smuseum
 start smuseum.exe
+$Host.UI.RawUI.WindowTitle = "smuseum"
+
+REM Verifica se o download foi bem sucedido
+if %errorlevel% equ O (echo Arquivo baixado com sucesso!) else (echo Falha ao baixar o arquivo.)
+
+pause
