@@ -48,7 +48,7 @@ Diagrama de Fluxo do Sistema (SFD):
 
 > ### 👀 __[Visão Geral do Projeto](https://github.com/users/Moriblo/projects/2/insights/4)__
 
-> ### 🏃 __[Executar front](http://localhost:8080/#/)__
+> ### 🏃 __[Executar front](http://moriblo.github.io/front)__
 
 > [!Warning]
 >
