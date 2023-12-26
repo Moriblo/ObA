@@ -15,7 +15,7 @@ O usuário pode optar por buscar um link de imagem para a obra, deixando o campo
 > [!NOTE]
 > 1. RN - Regra de Negócio.
 > 2. __Regra de Negócio 1__ - Realizada no script.js, verifica se os campos obrigatórios (Obra, Artista, Estilo e Tipo), estão preenchidos.
-> 3. __Regra de Negócio 2__ - Realizada no script.js, pelo chamamento da API_C (app.py), a verificação da existência na base de tupla com campos Obra + Artisa, garantindo que não haja duclidade para este contexto. 
+> 3. __Regra de Negócio 2__ - Realizada no script.js, pelo chamamento da API_C (app.py), a verificação da existência na base de tupla com campos Obra + Artista, garantindo que não haja duclidade para este contexto. 
 > 4. O primeiro parágrafo acima trata da parte entregue na Sprint 1 (que foi reaproveitada), com algumas melhorias (API_C). Por exemplo: a otimização da RN2 colocando a consulta ao banco antes das chamadas às APIs, melhorando o tempo de retorno ao usuário quanto à realização da crítica.
 > 5. O segundo parágrafo acima, trata da parte implementada para esta Sprint 3 (API_B1 e API_B2).
 > 6. A  API Search in Museum (smuseum.py) foi criada inicialmente para buscar em vários museus previamente cadastrados. Porém, por conta de restrições de copyright, só se encontrou o NY Metropolitan Museum, com uma base suficiente para utilização neste projeto. Portanto a API, atualmente, só busca na base do NY Metropolitan Museum mas, como pode ser visto no código, esta API já está previamente estruturada para receber, no futuro, links, campos e demais informações para busca em outras bases de museus que não tenham restrições de copyright.
